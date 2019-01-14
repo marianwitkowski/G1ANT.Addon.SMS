@@ -1,7 +1,7 @@
 # G1ANT.Addon.SMS
 
 Simple solution for intercept SMS from Android smartphone.
-You smartphone should have installed G1Ant SMS Intercept application and working in this same network.
+You smartphone should have installed [G1Ant SMS Intercept](https://github.com/marianwitkowski/G1AntSMS) application and working in this same network.
 
 Example scenario:
 You writing robot for system where MFA via SMS is required. After typing credential, you must confirm your identity via code from SMS.
